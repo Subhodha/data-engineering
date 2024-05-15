@@ -1,0 +1,1 @@
+git This code writes a DataFrame in JSON format, auto-partitioned based on a given maximum file size (in MB). It then converts each partitioned JSON file into a proper JSON array format.
